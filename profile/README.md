@@ -2,7 +2,9 @@
 
 # FURAI LAB
 
-### Architecting calm, persistent and autonomous AI systems
+### Architecting the future of digital autonomy.
+Specialized in long-term AI memory
+Edge-native systems, Hono and the Web3
 
 [furai.space](https://furai.space)
 
