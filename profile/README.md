@@ -16,6 +16,8 @@
 
 FURAI LAB is an independent AI research and engineering studio focused on long-term memory, digital identity and edge-native intelligence systems.
 
+We explore persistent AI architectures, vector-based memory systems and emerging Web3 technologies to build AI experiences designed for continuity instead of noise.
+
 We design AI experiences built for continuity instead of noise.
 
 ---
@@ -23,11 +25,13 @@ We design AI experiences built for continuity instead of noise.
 ## Core Directions
 
 - Persistent AI Memory
+- Vector-based Memory Systems
 - Autonomous AI Systems
 - Digital Identity Architecture
 - Edge-native Intelligence
 - Human-AI Interaction
 - Cognitive Interfaces
+- Web3-native Infrastructure
 - Long-term Context Systems
 
 ---
@@ -39,8 +43,10 @@ TypeScript
 Hono
 Cloudflare Workers
 Durable Objects
-Vector Memory Systems
+Vector Databases
+Memory Architectures
 LLM Infrastructure
+Web3 Technologies
 ```
 
 ---
