@@ -40,10 +40,10 @@ Vectorize · KV · D1 · R2
 
 ## Projects
 
-|Project        |Description                                                                                                                                                         |
-|---------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|**FURAI AI**   |Cinematic AI terminal powered by Velorum — an ancient archive vessel with long-term memory, lore, and visitor continuity. Live at [furai.space](https://furai.space)|
-|**Kokoc Store**|Edge-native Crocs + Jibbitz storefront built on Cloudflare Workers, D1, and R2. AI integration in progress — catch-the-Jibbitz game mode coming.                    |
+|Project        |Description                                                                                                                                                                                |
+|---------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|**FURAI AI**   |Cinematic AI terminal powered by Velorum — an ancient archive vessel with long-term memory, lore, and visitor continuity. Live at [furai.space](https://furai.space)                       |
+|**Kokoc Store**|Edge-native Crocs + Jibbitz storefront built on Cloudflare Workers, D1, and R2. AI integration in progress — catch-the-Jibbitz game mode coming. Live at [kokoc.store](https://kokoc.store)|
 
 -----
 
