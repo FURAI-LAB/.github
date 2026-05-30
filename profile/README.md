@@ -76,7 +76,7 @@ FURAI LAB is an early-stage studio. Core systems are live and actively evolving.
 |---|---|
 | **Dima** | Founder, AI research, system architecture |
 | **Vika** | UX/UI, product design, visual language |
-| **B.C.** | Backend, frontend, infrastructure |
+| **Mister C.** | Backend, frontend, infrastructure |
 
 ---
 
