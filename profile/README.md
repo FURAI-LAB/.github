@@ -4,7 +4,7 @@
 
 Specialized in long-term AI memory, edge-native systems, and the Web3.
 
-[furai.space](https://lab.furai.space)
+[lab.furai.space](https://lab.furai.space)
 
 -----
 
