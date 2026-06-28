@@ -28,16 +28,6 @@ We build AI systems designed for continuity — not sessions. Our work explores 
 
 -----
 
-## Stack
-
-```
-TypeScript
-Cloudflare Workers · Workers AI · Workers Assets
-Vectorize · KV · D1 · R2
-```
-
------
-
 ## Projects
 
 |Project        |Description                                                                                                                                                                                |
