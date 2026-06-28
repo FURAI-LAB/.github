@@ -56,7 +56,7 @@ We treat search visibility and load performance as part of the architecture, not
 ---
 
 ## Stack
-`TypeScript` `Cloudflare Workers` `Workers AI` `Workers Assets` `Vectorize` `KV` `D1` `R2`
+`TypeScript` `JavaScript` `Python` `Cloudflare Workers` `Workers AI` `Workers Assets` `Vectorize` `KV` `D1` `R2`
 
 ---
 
