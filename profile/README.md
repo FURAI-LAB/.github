@@ -6,8 +6,8 @@ Specialized in long-term AI memory, edge-native systems, and the Web3.
 ---
 
 ## About
-FURAI LAB is an independent AI research and engineering studio focused on long-term memory, digital identity, and edge-native intelligence.
-We build AI systems designed for continuity — not sessions. Our work explores what happens when AI remembers, evolves, and exists quietly alongside the people who use it.
+FURAI LAB is a boutique independent studio architecting high-performance digital infrastructure on the absolute edge. We eliminate server bloat and unnecessary overhead by deploying scale-to-zero, serverless systems globally via the Cloudflare Edge network.
+From building blazing-fast, framework-less E-commerce storefronts with sub-100ms load times to deploying autonomous AI agents with native long-term memory systems, we sit at the intersection of deep-tech engineering and premium UI/UX. We don't just build software; we design digital ecosystems engineered for continuity.
 
 ---
 
