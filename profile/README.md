@@ -1,17 +1,22 @@
 # FURAI LAB
 ### Architecting the future of digital autonomy.
+
 Specialized in long-term AI memory, edge-native systems, and the Web3.
+
 [lab.furai.space](https://lab.furai.space)
 
 ---
 
 ## About
+
 FURAI LAB is a boutique independent studio architecting high-performance digital infrastructure on the absolute edge. We eliminate server bloat and unnecessary overhead by deploying scale-to-zero, serverless systems globally via the Cloudflare Edge network.
+
 From building blazing-fast, framework-less E-commerce storefronts with sub-100ms load times to deploying autonomous AI agents with native long-term memory systems, we sit at the intersection of deep-tech engineering and premium UI/UX. We don't just build software; we design digital ecosystems engineered for continuity.
 
 ---
 
 ## Core Directions
+
 **Persistent Memory** — AI that retains context across time, not just within a conversation.
 
 **Identity-aware Systems** — models that understand who they're speaking with and adapt accordingly.
@@ -32,6 +37,7 @@ From building blazing-fast, framework-less E-commerce storefronts with sub-100ms
 ---
 
 ## Commercial / Client Work
+
 Alongside research, we build and run production commercial products on the same edge-native stack — real traffic, real revenue, no shortcuts.
 
 | Project | Stack | Description |
@@ -43,7 +49,8 @@ Building a commercial product on the edge? [furai@furai.space](mailto:furai@fura
 ---
 
 ## SEO & Performance
-We treat search visibility and load performance as part of the architecture, not an afterthought.
+
+We treat search visibility, load performance, and machine-readability as part of the architecture, not an afterthought.
 
 **Technical SEO** — canonical URLs, hreflang, structured data (JSON-LD), dynamic sitemaps, and robots.txt built into the routing layer.
 
@@ -51,16 +58,22 @@ We treat search visibility and load performance as part of the architecture, not
 
 **Multilingual by design** — separate localized routes with proper hreflang annotation, not client-side string-swapping that search engines can't index.
 
+**Security-hardened by default** — strict security headers and content negotiation (`Vary: Accept`) baked into every route, not bolted on later.
+
+**Agent & crawler readiness** — machine-consumable surfaces alongside the human-facing site, so both search engines and AI agents can navigate the property without guesswork.
+
 **Search Console & Webmaster** — verified, monitored, and submitted from day one. Google Search Console and Yandex Webmaster both wired in.
 
 ---
 
 ## Stack
+
 `TypeScript` `JavaScript` `Python` `Cloudflare Workers` `Workers AI` `Workers Assets` `Vectorize` `KV` `D1` `R2`
 
 ---
 
 ## Philosophy
+
 Technology should feel calm.
 
 We believe future AI systems should:
@@ -72,6 +85,7 @@ We believe future AI systems should:
 ---
 
 ## Status
+
 🟢 Early-stage studio. Core systems live and actively evolving.
 
 ---
