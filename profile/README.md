@@ -96,7 +96,7 @@ We believe future AI systems should:
 |---|---|
 | **Dima** | Founder, AI research, system architecture |
 | **Vika** | UX/UI, product design, visual language |
-| **Mister C** | Backend, frontend, infrastructure |
+| **Boris** | Backend, frontend, infrastructure |
 
 ---
 
