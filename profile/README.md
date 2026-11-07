@@ -84,22 +84,14 @@ We believe future AI systems should:
 
 ---
 
-## Status
-
-🟢 Early-stage studio. Core systems live and actively evolving.
-
----
-
 ## Crew
 
 | | Role |
 |---|---|
 | **Dima** | Founder, AI research, system architecture |
 | **Vika** | UX/UI, product design, visual language |
-| **Boris** | Backend, frontend, infrastructure |
+| **David** | Backend, frontend, infrastructure |
 
 ---
-
-[furai@furai.space](mailto:furai@furai.space) · [t.me/furailab](https://t.me/furailab) · [github.com/FURAI-LAB](https://github.com/FURAI-LAB)
 
 *Built with patience.*
